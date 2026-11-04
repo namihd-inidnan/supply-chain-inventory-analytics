@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,region
+WH01,Panipat DC,Panipat,Haryana,North
+WH02,Mumbai DC,Mumbai,Maharashtra,West
+WH03,Bengaluru DC,Bengaluru,Karnataka,South
+WH04,Kolkata DC,Kolkata,West Bengal,East
+WH05,Hyderabad DC,Hyderabad,Telangana,South

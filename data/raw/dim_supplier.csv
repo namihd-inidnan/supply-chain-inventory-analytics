@@ -1,0 +1,13 @@
+supplier_id,supplier_name,lead_time_days,reliability
+SUP01,Supplier 01 Traders,4.0,0.82
+SUP02,Supplier 02 Traders,12.0,0.94
+SUP03,Supplier 03 Traders,4.0,0.73
+SUP04,Supplier 04 Traders,,0.97
+SUP05,Supplier 05 Traders,,0.92
+SUP06,Supplier 06 Traders,12.0,0.74
+SUP07,Supplier 07 Traders,13.0,0.8
+SUP08,Supplier 08 Traders,8.0,0.96
+SUP09,Supplier 09 Traders,12.0,0.93
+SUP10,Supplier 10 Traders,10.0,0.82
+SUP11,Supplier 11 Traders,8.0,0.86
+SUP12,Supplier 12 Traders,5.0,0.72

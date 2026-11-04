@@ -1,0 +1,121 @@
+product_id,product_name,category,brand,unit_cost,unit_price,supplier_id
+P001,UrbanCart Basmati Rice 5kg,Grocery & Staples,UrbanCart,221.29,288.03,SUP10
+P002,Royal Harvest Whole Wheat Atta 10kg,Grocery & Staples,Royal Harvest,554.23,736.36,SUP05
+P003,Nirmal Toor Dal 1kg,Grocery & Staples,Nirmal,67.76,84.25,SUP10
+P004,GreenField Moong Dal 1kg,Grocery & Staples,GreenField,60.75,78.16,SUP01
+P005,FreshBay Chana Dal 1kg,Grocery & Staples,FreshBay,549.46,667.68,SUP09
+P006,FreshBay Sugar 5kg,Grocery & Staples,FreshBay,142.66,169.46,SUP05
+P007,GreenField Iodised Salt 1kg,Grocery & Staples,GreenField,145.05,173.39,SUP02
+P008,Everyday Mustard Oil 1L,Grocery & Staples,Everyday,130.67,172.03,SUP09
+P009,Nirmal Sunflower Oil 1L,Grocery & Staples,Nirmal,93.2,122.69,SUP09
+P010,GreenField Refined Oil 5L,Grocery & Staples,GreenField,114.23,137.95,SUP10
+P011,PureLeaf Poha 500g,Grocery & Staples,PureLeaf,58.4,69.49,SUP09
+P012,UrbanCart Besan 1kg,Grocery & Staples,UrbanCart,336.94,432.28,SUP01
+P013,GreenField Rajma 1kg,Grocery & Staples,GreenField,331.34,411.45,SUP09
+P014,Everyday Masoor Dal 1kg,Grocery & Staples,Everyday,58.41,68.51,SUP07
+P015,GreenField Jaggery 1kg,Grocery & Staples,GreenField,143.26,180.94,SUP09
+P016,Aarav Turmeric Powder 200g,Grocery & Staples,Aarav,223.12,281.29,SUP10
+P017,Aarav Red Chilli Powder 200g,Grocery & Staples,Aarav,91.1,105.33,SUP07
+P018,Sunrise Garam Masala 100g,Grocery & Staples,Sunrise,71.52,88.09,SUP06
+P019,FreshBay Tea Leaves 500g,Grocery & Staples,FreshBay,75.37,87.55,SUP11
+P020,UrbanCart Ghee 1L,Grocery & Staples,UrbanCart,88.58,113.59,SUP04
+P021,Kisan Fresh Cola 2L,Beverages,Kisan Fresh,112.8,144.71,SUP07
+P022,GreenField Orange Juice 1L,Beverages,GreenField,123.81,146.52,SUP05
+P023,Sunrise Mango Drink 1.2L,Beverages,Sunrise,13.21,17.1,SUP01
+P024,Nirmal Packaged Water 1L,Beverages,Nirmal,16.46,20.58,SUP06
+P025,FreshBay Energy Drink 250ml,Beverages,FreshBay,86.05,106.64,SUP02
+P026,Kisan Fresh Green Tea 25 bags,Beverages,Kisan Fresh,25.4,32.41,SUP05
+P027,Nirmal Instant Coffee 100g,Beverages,Nirmal,13.11,15.39,SUP05
+P028,Sunrise Lemon Soda 750ml,Beverages,Sunrise,165.84,213.92,SUP12
+P029,GreenField Coconut Water 200ml,Beverages,GreenField,200.01,261.16,SUP04
+P030,PureLeaf Iced Tea 500ml,Beverages,PureLeaf,40.11,48.31,SUP09
+P031,Aarav Sparkling Water 750ml,Beverages,Aarav,162.81,202.07,SUP02
+P032,Royal Harvest Apple Juice 1L, BEVERAGES ,Royal Harvest,25.75,32.6,SUP03
+P033,Everyday Mixed Fruit Juice 1L,Beverages,Everyday,141.23,183.84,SUP03
+P034,GreenField Soft Drink 600ml,Beverages,GreenField,38.02,48.49,SUP09
+P035,Kisan Fresh Buttermilk 200ml,Beverages,Kisan Fresh,74.54,86.98,SUP08
+P036,Royal Harvest Lassi 200ml,Beverages,Royal Harvest,11.37,14.2,SUP05
+P037,Kisan Fresh Cold Coffee 200ml,Beverages,Kisan Fresh,15.63,18.3,SUP04
+P038,Kisan Fresh Malt Drink 500g,Beverages,Kisan Fresh,16.94,22.62,SUP08
+P039,FreshBay Tomato Juice 1L,Beverages,FreshBay,29.22,37.06,SUP07
+P040,PureLeaf Electrolyte Drink 500ml,Beverages,PureLeaf,193.55,241.25,SUP01
+P041,GreenField Shampoo 340ml,Personal Care,GreenField,37.32,46.55,SUP10
+P042,Nirmal Conditioner 180ml,Personal Care,Nirmal,356.44,450.66,SUP06
+P043,Everyday Body Wash 250ml,Personal Care,Everyday,60.69,73.82,SUP06
+P044,Everyday Toothpaste 150g,Personal Care,Everyday,95.54,110.28,SUP07
+P045,Sunrise Toothbrush Pack,Personal Care,Sunrise,319.33,376.19,SUP10
+P046,Sunrise Face Wash 100ml,Personal Care,Sunrise,39.95,51.31,SUP07
+P047,Kisan Fresh Moisturiser 200ml, PERSONAL CARE ,Kisan Fresh,170.96,221.46,SUP04
+P048,FreshBay Hand Wash 250ml,Personal Care,FreshBay,39.87,53.15,SUP10
+P049,FreshBay Deodorant 150ml, PERSONAL CARE ,FreshBay,33.11,41.75,SUP03
+P050,Everyday Soap Bar 4-pack,Personal Care,Everyday,268.02,351.55,SUP05
+P051,FreshBay Hair Oil 200ml,Personal Care,FreshBay,370.91,448.13,SUP04
+P052,Nirmal Sunscreen 50g,Personal Care,Nirmal,58.95,78.83,SUP07
+P053,Kisan Fresh Razor Pack,Personal Care,Kisan Fresh,33.77,41.77,SUP02
+P054,FreshBay Shaving Foam 200g,Personal Care,FreshBay,315.57,410.15,SUP12
+P055,UrbanCart Talcum Powder 200g, PERSONAL CARE ,UrbanCart,317.05,397.51,SUP11
+P056,GreenField Lip Balm,Personal Care,GreenField,230.12,295.09,SUP04
+P057,GreenField Face Cream 50g,Personal Care,GreenField,38.49,50.01,SUP05
+P058,Sunrise Body Lotion 400ml,Personal Care,Sunrise,355.49,425.95,SUP04
+P059,Aarav Mouthwash 250ml,Personal Care,Aarav,268.96,317.55,SUP02
+P060,Royal Harvest Sanitary Pads 20ct, PERSONAL CARE ,Royal Harvest,145.91,193.32,SUP03
+P061,Aarav Detergent Powder 2kg,Household,Aarav,48.62,63.47,SUP03
+P062,Sunrise Liquid Detergent 1L,Household,Sunrise,83.84,98.83,SUP12
+P063,FreshBay Dishwash Gel 750ml,Household,FreshBay,38.59,45.4,SUP01
+P064,Aarav Floor Cleaner 1L,Household,Aarav,28.34,35.46,SUP09
+P065,FreshBay Toilet Cleaner 500ml,Household,FreshBay,105.53,125.58,SUP09
+P066,UrbanCart Glass Cleaner 500ml,Household,UrbanCart,154.99,201.15,SUP10
+P067,UrbanCart Garbage Bags 30ct,Household,UrbanCart,28.5,38.06,SUP02
+P068,Aarav Tissue Roll 6-pack,Household,Aarav,47.33,59.05,SUP05
+P069,Everyday Kitchen Towel 2-pack,Household,Everyday,308.25,372.15,SUP08
+P070,FreshBay Air Freshener 250ml,Household,FreshBay,21.47,27.07,SUP12
+P071,Kisan Fresh Mosquito Repellent Refill,Household,Kisan Fresh,27.08,31.9,SUP08
+P072,Royal Harvest Scrub Pad 3-pack,Household,Royal Harvest,317.76,403.3,SUP06
+P073,Kisan Fresh Aluminium Foil 25m,Household,Kisan Fresh,199.93,248.61,SUP12
+P074,Nirmal Cling Film 30m,Household,Nirmal,21.05,24.67,SUP10
+P075,PureLeaf Matchbox 10-pack,Household,PureLeaf,195.66,234.11,SUP10
+P076,Sunrise Candles 12-pack,Household,Sunrise,113.33,150.0,SUP07
+P077,Royal Harvest LED Bulb 9W,Household,Royal Harvest,65.14,79.79,SUP08
+P078,FreshBay Batteries AA 4-pack, HOUSEHOLD ,FreshBay,129.24,171.05,SUP06
+P079,PureLeaf Phenyl 1L,Household,PureLeaf,40.65,48.67,SUP06
+P080,FreshBay Fabric Softener 1L,Household,FreshBay,207.04,242.46,SUP09
+P081,UrbanCart Instant Noodles 5-pack,Packaged Foods,UrbanCart,89.02,104.98,SUP01
+P082,Kisan Fresh Biscuits 600g, PACKAGED FOODS ,Kisan Fresh,38.01,44.81,SUP10
+P083,FreshBay Cornflakes 475g,Packaged Foods,FreshBay,24.63,29.73,SUP12
+P084,Everyday Oats 1kg,Packaged Foods,Everyday,21.2,24.47,SUP02
+P085,Royal Harvest Peanut Butter 340g,Packaged Foods,Royal Harvest,25.31,29.38,SUP01
+P086,GreenField Tomato Ketchup 950g,Packaged Foods,GreenField,115.27,141.64,SUP08
+P087,UrbanCart Jam 500g,Packaged Foods,UrbanCart,68.0,90.1,SUP04
+P088,Royal Harvest Pasta 500g,Packaged Foods,Royal Harvest,17.09,20.27,SUP11
+P089,UrbanCart Pasta Sauce 400g,Packaged Foods,UrbanCart,31.66,40.03,SUP03
+P090,FreshBay Potato Chips 150g,Packaged Foods,FreshBay,17.38,21.29,SUP05
+P091,FreshBay Namkeen 400g,Packaged Foods,FreshBay,20.34,26.78,SUP07
+P092,Kisan Fresh Chocolate Bar 55g,Packaged Foods,Kisan Fresh,239.52,280.2,SUP01
+P093,UrbanCart Cookies 300g,Packaged Foods,UrbanCart,224.11,301.63,SUP11
+P094,Sunrise Instant Soup 4-pack,Packaged Foods,Sunrise,154.96,198.12,SUP10
+P095,Nirmal Pickle 500g,Packaged Foods,Nirmal,22.45,28.22,SUP10
+P096,Sunrise Honey 500g, PACKAGED FOODS ,Sunrise,195.8,243.29,SUP07
+P097,Royal Harvest Muesli 500g,Packaged Foods,Royal Harvest,101.9,122.62,SUP05
+P098,Aarav Popcorn 3-pack,Packaged Foods,Aarav,62.78,77.43,SUP02
+P099,Nirmal Ready-to-Eat Meal 300g, PACKAGED FOODS ,Nirmal,45.11,55.18,SUP03
+P100,Royal Harvest Mayonnaise 250g,Packaged Foods,Royal Harvest,46.75,60.17,SUP04
+P101,PureLeaf Butter 500g,Dairy & Frozen,PureLeaf,330.63,440.82,SUP04
+P102,UrbanCart Cheese Slices 200g,Dairy & Frozen,UrbanCart,61.1,76.81,SUP06
+P103,FreshBay Paneer 200g,Dairy & Frozen,FreshBay,147.64,193.54,SUP11
+P104,Everyday Curd 400g,Dairy & Frozen,Everyday,139.94,169.0,SUP07
+P105,Kisan Fresh UHT Milk 1L,Dairy & Frozen,Kisan Fresh,43.37,55.9,SUP09
+P106,Everyday Ice Cream 1L,Dairy & Frozen,Everyday,35.81,45.58,SUP11
+P107,Nirmal Frozen Peas 500g,Dairy & Frozen,Nirmal,180.15,210.22,SUP02
+P108,Everyday Frozen Parathas 5-pack,Dairy & Frozen,Everyday,36.34,48.76,SUP12
+P109,Kisan Fresh French Fries 750g,Dairy & Frozen,Kisan Fresh,125.77,164.32,SUP10
+P110,FreshBay Cream 200ml,Dairy & Frozen,FreshBay,328.09,393.93,SUP10
+P111,Royal Harvest Mozzarella 200g,Dairy & Frozen,Royal Harvest,32.38,41.23,SUP08
+P112,Kisan Fresh Cheese Spread 180g,Dairy & Frozen,Kisan Fresh,116.31,147.07,SUP03
+P113,GreenField Flavoured Yogurt 100g,Dairy & Frozen,GreenField,103.66,135.05,SUP06
+P114,FreshBay Condensed Milk 400g,Dairy & Frozen,FreshBay,95.41,121.16,SUP10
+P115,Kisan Fresh Milk Powder 1kg,Dairy & Frozen,Kisan Fresh,34.63,40.64,SUP12
+P116,Royal Harvest Frozen Corn 500g,Dairy & Frozen,Royal Harvest,149.77,184.77,SUP02
+P117,FreshBay Frozen Nuggets 400g,Dairy & Frozen,FreshBay,155.32,188.98,SUP10
+P118,Royal Harvest Sweet Corn Can 400g, DAIRY & FROZEN ,Royal Harvest,199.13,239.77,SUP11
+P119,Royal Harvest Ice Cream Tub 500ml,Dairy & Frozen,Royal Harvest,58.82,69.5,SUP05
+P120,FreshBay Skimmed Milk 1L,Dairy & Frozen,FreshBay,319.37,395.25,SUP02
